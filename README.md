@@ -133,7 +133,12 @@ Each day I take one subject from the list below, read it cover to cover, take no
 # Motivation
 - [x] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
+## Math Fundamentals
+- [ ] [Coding the Matrix](http://codingthematrix.com) [torrent](http://academictorrents.com/details/54cd86f3038dfd446b037891406ba4e0b1200d5a)
+- [ ] Coursera introduction to statistics 101
+
 ## Machine learning overview
+- [ ] [Visual Interactive Guide To Basics - Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 - [x] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [ ] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
 - [ ] [Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
@@ -249,6 +254,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [16 New Must Watch Tutorials, Courses on Machine Learning](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
 
 ## MOOC
+- [ ] [Practical Deep Learning For Coders, Part 1](http://course.fast.ai)
 - [ ] [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     - [Udacity Intro to Machine Learning Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html)
 - [ ] [Udacity’s Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)

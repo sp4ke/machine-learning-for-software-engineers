@@ -30,7 +30,7 @@ Please, feel free to make any contributions you feel will make it better.
 ## Table of Contents
 
 - [What is it?](#what-is-it)
-- [Sides of machine learning?](#why-use-it)
+- [Sides of machine learning?](#sides-of-machine-learning)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
@@ -98,6 +98,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 ## Math Fundamentals
 - [ ] [Coding the Matrix](http://codingthematrix.com) [torrent](http://academictorrents.com/details/54cd86f3038dfd446b037891406ba4e0b1200d5a)
 - [ ] Coursera introduction to statistics 101
+- [ ] [Linear Algebra essentials (https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## Machine learning overview
 - [ ] [Visual Interactive Guide To Basics - Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)

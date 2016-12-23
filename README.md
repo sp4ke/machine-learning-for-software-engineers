@@ -30,9 +30,7 @@ Please, feel free to make any contributions you feel will make it better.
 ## Table of Contents
 
 - [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Follow me](#follow-me)
+- [Sides of machine learning?](#why-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
@@ -58,21 +56,10 @@ Please, feel free to make any contributions you feel will make it better.
 
 ---
 
-## Why use it?
+## Sides of Machine Learning:
 
-I'm following this plan to prepare for my near future job: Machine learning engineer. I've been building the native mobile application (Android/iOS/Blackberry) since 2011. I have a Software Engineering degree, not a Computer Science degree. I have itty bitty of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics at university.
-Think about my interest in machine learning:
-- [Can I learn and get a job in Machine Learning without studying CS Master and PhD?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
-    - You can, but it is far more difficult than when I got into the field.
-- [How do I get a job in Machine Learning as a software programmer who self-studies Machine Learning, but  never has a chance to use it at work?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
-    - I'm hiring machine learning experts for my team and your MOOC will not get you the job (there is better news below). In fact, many people with a master's in machine learning will not get the job because they (and most who have taken MOOCs) do not have a deep understanding that will help me solve my problems
-- [What skills are needed for machine learning jobs?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
-    - First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook.
-    - Statistics, Probability, distributed computing, and Statistics.
 
-I find myself in times of trouble.
-
-AFAIK, [There are two sides to machine learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
+[There are two sides to machine learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
 - Practical Machine Learning: This is about queries databases, cleaning data, writing scripts to transform data and gluing algorithm and libraries together and writing custom code to squeeze reliable answers from data to satisfy difficult and ill defined questions. It’s the mess of reality.
 - Theoretical Machine Learning: This is about math and abstraction and idealized scenarios and limits and beauty and informing what is possible. It is a whole lot neater and cleaner and removed from the mess of reality.
 
@@ -80,27 +67,7 @@ I think the best way for practice-focused methodology is something like ['practi
 
  It's a long plan. It's going to take me years. If you are familiar with a lot of this already it will take you a lot less time.
 
-## How to use it
-Everything below is an outline, and you should tackle the items in order from top to bottom.
 
-I'm using Github's special markdown flavor, including tasks lists to check progress.
-
-- [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
-
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-## Follow me
-I'm a Vietnamese Software Engineer who are really passionate and want to work in the USA.
-
-How much did I work during this plan? Roughly 4 hours/night after a long, hard day at work.
-
-I'm on the journey. 
-
-- Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
-
-| ![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.md.jpg)|
-|:---:|
-| USA as heck | 
 
 ## Don't feel you aren't smart enough
 I get discouraged from books and courses that tell me as soon as I can that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
@@ -109,11 +76,6 @@ I get discouraged from books and courses that tell me as soon as I can that mult
 - [5 Techniques To Understand Machine Learning Algorithms Without the Background in Mathematics](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
 - [How do I learn machine learning?](https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1)
 
-## About Video Resources
-
-Some videos are available only by enrolling in a Coursera or EdX class. It is free to do so, but sometimes the classes
-are no longer in session so you have to wait a couple of months, so you have no access. I'm going to be adding more videos
-from public sources and replacing the online course videos over time. I like using university lectures.
 
 ## Prerequisite Knowledge
 

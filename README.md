@@ -157,6 +157,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die](https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1118356853)
 
 ## Practical Books
+- [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - [ ] [Machine Learning for Hackers](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
 	- [GitHub repository(R)](https://github.com/johnmyleswhite/ML_for_Hackers)
 	- [GitHub repository(Python)](https://github.com/carljv/Will_it_Python)

@@ -97,6 +97,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Coding the Matrix](http://codingthematrix.com) [torrent](http://academictorrents.com/details/54cd86f3038dfd446b037891406ba4e0b1200d5a)
 - [ ] Coursera introduction to statistics 101
 - [ ] [Linear Algebra essentials (https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [ ] [Linear Algebra Guide](https://betterexplained.com/articles/linear-algebra-guide/)
 
 ## Machine learning overview
 - [ ] [Visual Interactive Guide To Basics - Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)

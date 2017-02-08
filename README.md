@@ -129,6 +129,12 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Model performance and error analysis](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
 - [ ] [Unsupervised learning, related fields, and machine learning in practice](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
 
+## Machine Learning in-depth math theory 
+- [x] [Understanding Bayes: A Look at the Likelihood](https://alexanderetz.com/2015/04/15/understanding-bayes-a-look-at-the-likelihood/)
+- [x] [Logistic Regression and Gradient Descent](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect09.pdf)
+- [ ] [The Method of Maximum Likelihood for Simple Linear Regression](www.stat.cmu.edu/~cshalizi/mreg/15/lectures/06/lecture-06.pdf)
+- [ ] [Regression Estimation - Least Squares and Maximum Likelihood](http://www.robots.ox.ac.uk/~fwood/teaching/W4315_Fall2011/Lectures/lecture_3/lecture_3.pdf)
+
 ## Stories and experiences
 - [ ] [Titanic Kaggle Challenge](https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic)
 - [ ] [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
@@ -145,6 +151,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [A Learning Sabbatical focused on Machine Learning](http://karlrosaen.com/ml/)
 
 ## Machine Learning Algorithms
+- [x] [Gradient Descent with Backpropagation](http://outlace.com/Beginner-Tutorial-Backpropagation/)
 - [ ] [10 Machine Learning Algorithms Explained to an ‘Army Soldier’](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
 - [ ] [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - [ ] [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)

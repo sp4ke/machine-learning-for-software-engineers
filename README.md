@@ -1,41 +1,19 @@
-# Top-down learning path: Machine Learning for Software Engineers
+# Top-down learning path and resources: Machine Learning for Software Engineers
 
-<p align="center">
-  <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">
-    <img alt="Top-down learning path: Machine Learning for Software Engineers" src="https://img.shields.io/badge/Machine%20Learning-Software%20Engineers-blue.svg">
-  </a>
-  <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers/stargazers">
-	<img alt="GitHub stars" src="https://img.shields.io/github/stars/ZuzooVn/machine-learning-for-software-engineers.svg">
-  </a>
-  <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers/network">
-	<img alt="GitHub forks" src="https://img.shields.io/github/forks/ZuzooVn/machine-learning-for-software-engineers.svg">
-  </a>
-</p>
 
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university).
+Inspired by [Machine Learning for Software Engineers
+](https://github.com/ZuzooVn/machine-learning-for-software-engineers) by [Google Interview University](https://github.com/jwasham/google-interview-university).
 
 Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md)
 
-## What is it?
 
-This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer.
-
-My main goal was to find an approach to studying Machine Learning that is mainly hands-on and abstracts most of the math for the beginner. 
-This approach is unconventional because it’s the top-down and results-first approach designed for software engineers.
-
-Please, feel free to make any contributions you feel will make it better.
-
----
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
 - [Sides of machine learning?](#sides-of-machine-learning)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
-- [The Daily Plan](#the-daily-plan)
-- [Motivation](#motivation)
 - [Machine learning overview](#machine-learning-overview)
 - [Machine learning mastery](#machine-learning-mastery)
 - [Machine learning is fun](#machine-learning-is-fun)
@@ -83,15 +61,6 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [x] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 - [x] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
-
-## The Daily Plan
-
-Each subject does not require a whole day to be able to understand it fully, and you can do multiple of these in a day.
-
-Each day I take one subject from the list below, read it cover to cover, take note, do the exercises and write an implementation in Python or R.
-
-# Motivation
-- [x] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## Math Fundamentals
 - [ ] [Coding the Matrix](http://codingthematrix.com) [torrent](http://academictorrents.com/details/54cd86f3038dfd446b037891406ba4e0b1200d5a)
@@ -158,6 +127,9 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [ ] [The 10 Algorithms Machine Learning Engineers Need to Know](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.ofc7t2965)
 - [ ] [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
+
+## Neural Networks for NLP
+- [ ] [i am trask](http://iamtrask.github.io)
 
 ## Beginner Books
 - [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)

@@ -20,7 +20,7 @@ Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning
 - [Machine learning: an in-depth, non-technical guide](#machine-learning-an-in-depth-non-technical-guide)
 - [Stories and experiences](#stories-and-experiences)
 - [Machine Learning Algorithms](#machine-learning-algorithms)
-- [Deep Learning Resources](#Deep-Learning-Resources)
+- [Deep Learning Resources](#deep-learning-resources)
 - [Beginner Books](#beginner-books)
 - [Practical Books](#practical-books)
 - [Kaggle knowledge competitions](#kaggle-knowledge-competitions)

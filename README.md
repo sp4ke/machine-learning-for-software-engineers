@@ -20,6 +20,7 @@ Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning
 - [Machine learning: an in-depth, non-technical guide](#machine-learning-an-in-depth-non-technical-guide)
 - [Stories and experiences](#stories-and-experiences)
 - [Machine Learning Algorithms](#machine-learning-algorithms)
+- [Deep Learning Resources](#Deep-Learning-Resources)
 - [Beginner Books](#beginner-books)
 - [Practical Books](#practical-books)
 - [Kaggle knowledge competitions](#kaggle-knowledge-competitions)
@@ -129,8 +130,10 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [ ] [The 10 Algorithms Machine Learning Engineers Need to Know](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.ofc7t2965)
 - [ ] [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 
-## Neural Networks for NLP
+
+## Deep Learning Resources
 - [ ] [i am trask](http://iamtrask.github.io)
+- [ ] [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
 ## Beginner Books
 - [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)

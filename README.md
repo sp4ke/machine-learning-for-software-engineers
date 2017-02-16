@@ -103,6 +103,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [Logistic Regression and Gradient Descent](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect09.pdf)
 - [ ] [The Method of Maximum Likelihood for Simple Linear Regression](www.stat.cmu.edu/~cshalizi/mreg/15/lectures/06/lecture-06.pdf)
 - [ ] [Regression Estimation - Least Squares and Maximum Likelihood](http://www.robots.ox.ac.uk/~fwood/teaching/W4315_Fall2011/Lectures/lecture_3/lecture_3.pdf)
+- [ ] [SVMs and Kernel Method](http://www.win-vector.com/blog/2011/10/kernel-methods-and-support-vector-machines-de-mystified/)
 
 ## Stories and experiences
 - [ ] [Titanic Kaggle Challenge](https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic)

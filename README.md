@@ -135,6 +135,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [ ] [i am trask](http://iamtrask.github.io)
 - [ ] [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [ ] [Understanding word2vec NN and how semantics are extracted](http://www-personal.umich.edu/~ronxin/pdf/w2vexp.pdf)
+- [ ] [word2vec explorable explanation](https://ronxin.github.io/wevi/)
 
 ## Beginner Books
 - [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)

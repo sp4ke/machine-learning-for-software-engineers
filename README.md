@@ -79,6 +79,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [ ] [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
 
 ## Machine learning mastery
+- [ ] [Machine Learning Algorithms in pure python](github.com/eriklindernoren/ML-From-Scratch)
 - [ ] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
 - [ ] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)

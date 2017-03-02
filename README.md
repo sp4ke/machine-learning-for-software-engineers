@@ -103,12 +103,11 @@ This short section were prerequisites/interesting info I wanted to learn before 
 ## Machine Learning in-depth math theory 
 - [x] [Understanding Bayes: A Look at the Likelihood](https://alexanderetz.com/2015/04/15/understanding-bayes-a-look-at-the-likelihood/)
 - [x] [Logistic Regression and Gradient Descent](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect09.pdf)
-- [ ] [The Method of Maximum Likelihood for Simple Linear Regression](www.stat.cmu.edu/~cshalizi/mreg/15/lectures/06/lecture-06.pdf)
-- [ ] [Regression Estimation - Least Squares and Maximum Likelihood](http://www.robots.ox.ac.uk/~fwood/teaching/W4315_Fall2011/Lectures/lecture_3/lecture_3.pdf)
-- [ ] [SVMs and Kernel Method](http://www.win-vector.com/blog/2011/10/kernel-methods-and-support-vector-machines-de-mystified/)
+- [x] [The Method of Maximum Likelihood for Simple Linear Regression](www.stat.cmu.edu/~cshalizi/mreg/15/lectures/06/lecture-06.pdf)
+- [-] [Regression Estimation - Least Squares and Maximum Likelihood](http://www.robots.ox.ac.uk/~fwood/teaching/W4315_Fall2011/Lectures/lecture_3/lecture_3.pdf)
+- [-] [SVMs and Kernel Method](http://www.win-vector.com/blog/2011/10/kernel-methods-and-support-vector-machines-de-mystified/)
 
 ## Stories and experiences
-- [ ] [Titanic Kaggle Challenge](https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic)
 - [ ] [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
 - [ ] [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
 - [ ] [How I wrote my first Machine Learning program in 3 days](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
@@ -133,10 +132,11 @@ This short section were prerequisites/interesting info I wanted to learn before 
 
 
 ## Deep Learning Resources
-- [ ] [i am trask](http://iamtrask.github.io)
+- [x] [i am trask](http://iamtrask.github.io)
 - [ ] [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
-- [ ] [Understanding word2vec NN and how semantics are extracted](http://www-personal.umich.edu/~ronxin/pdf/w2vexp.pdf)
-- [ ] [word2vec explorable explanation](https://ronxin.github.io/wevi/)
+- [x] [Word vectors intuition](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
+- [x] [Understanding word2vec NN and how semantics are extracted](http://www-personal.umich.edu/~ronxin/pdf/w2vexp.pdf)
+- [x] [word2vec explorable explanation](https://ronxin.github.io/wevi/)
 - [ ] [Deep Learning Tensorflow Algorithms](http://deep-learning-tensorflow.readthedocs.io/en/latest/#)
 
 ## Beginner Books
@@ -184,6 +184,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 	- [GitHub repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 ## Kaggle knowledge competitions
+- [x] [Titanic Kaggle Challenge](https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic)
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
 - [ ] [How a Beginner Used Small Projects To Get Started in Machine Learning and Compete on Kaggle](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
 - [ ] [Master Kaggle By Competing Consistently](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)

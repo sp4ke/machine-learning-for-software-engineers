@@ -138,6 +138,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [Understanding word2vec NN and how semantics are extracted](http://www-personal.umich.edu/~ronxin/pdf/w2vexp.pdf)
 - [x] [word2vec explorable explanation](https://ronxin.github.io/wevi/)
 - [ ] [Deep Learning Tensorflow Algorithms](http://deep-learning-tensorflow.readthedocs.io/en/latest/#)
+- [ ] [Visualizing and Understanding Convolutional Networks](www.matthewzeiler.com/pubs/arxive2013/eccv2014.pdf)
 
 ## Beginner Books
 - [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)

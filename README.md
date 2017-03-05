@@ -12,7 +12,6 @@ Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning
 
 - [Sides of machine learning?](#sides-of-machine-learning)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [About Video Resources](#about-video-resources)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [Machine learning overview](#machine-learning-overview)
 - [Machine learning mastery](#machine-learning-mastery)

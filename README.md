@@ -20,6 +20,7 @@ Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning
 - [Stories and experiences](#stories-and-experiences)
 - [Machine Learning Algorithms](#machine-learning-algorithms)
 - [Deep Learning Resources](#deep-learning-resources)
+- [Deep Learning To read](#deep-learning-to-read)
 - [Beginner Books](#beginner-books)
 - [Practical Books](#practical-books)
 - [Kaggle knowledge competitions](#kaggle-knowledge-competitions)
@@ -103,8 +104,8 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [Understanding Bayes: A Look at the Likelihood](https://alexanderetz.com/2015/04/15/understanding-bayes-a-look-at-the-likelihood/)
 - [x] [Logistic Regression and Gradient Descent](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect09.pdf)
 - [x] [The Method of Maximum Likelihood for Simple Linear Regression](www.stat.cmu.edu/~cshalizi/mreg/15/lectures/06/lecture-06.pdf)
-- [-] [Regression Estimation - Least Squares and Maximum Likelihood](http://www.robots.ox.ac.uk/~fwood/teaching/W4315_Fall2011/Lectures/lecture_3/lecture_3.pdf)
-- [-] [SVMs and Kernel Method](http://www.win-vector.com/blog/2011/10/kernel-methods-and-support-vector-machines-de-mystified/)
+- [x] [Regression Estimation - Least Squares and Maximum Likelihood](http://www.robots.ox.ac.uk/~fwood/teaching/W4315_Fall2011/Lectures/lecture_3/lecture_3.pdf)
+- [x] [SVMs and Kernel Method](http://www.win-vector.com/blog/2011/10/kernel-methods-and-support-vector-machines-de-mystified/)
 
 ## Stories and experiences
 - [ ] [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
@@ -138,6 +139,9 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [word2vec explorable explanation](https://ronxin.github.io/wevi/)
 - [ ] [Deep Learning Tensorflow Algorithms](http://deep-learning-tensorflow.readthedocs.io/en/latest/#)
 - [ ] [Visualizing and Understanding Convolutional Networks](www.matthewzeiler.com/pubs/arxive2013/eccv2014.pdf)
+
+## Deep Learning To Read
+- [ ] [Google NN for machine translation](research.googleblog.com/2016/09/a-neural-network-for-machine.html)
 
 ## Beginner Books
 - [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
